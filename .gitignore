@@ -1,0 +1,5 @@
+.memory/
+.claude/commands/talk-to-me.md
+.claude/settings.local.json
+.claude/plans/
+INSTRUCTIONS.md

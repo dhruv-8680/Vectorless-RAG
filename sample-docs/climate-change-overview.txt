@@ -1,0 +1,87 @@
+Climate Change: Causes, Effects, and Solutions
+
+The Earth's climate has changed throughout history, but the current warming trend is particularly significant because it is predominantly driven by human activities since the mid-20th century and is proceeding at a rate unprecedented in millennia.
+
+The Greenhouse Effect
+
+The greenhouse effect is a natural process that warms the Earth's surface. When the Sun's energy reaches the Earth, some of it is reflected back to space and the rest is absorbed, warming the planet. The Earth then radiates heat back toward space. Greenhouse gases in the atmosphere trap some of this outgoing energy, retaining heat — similar to the glass walls of a greenhouse.
+
+The primary greenhouse gases are carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and fluorinated gases. While the greenhouse effect is essential for life on Earth (without it, the average temperature would be about -18°C instead of 15°C), human activities have amplified it significantly.
+
+Since the Industrial Revolution, atmospheric CO2 concentrations have increased from approximately 280 parts per million (ppm) to over 420 ppm in 2024. This increase is primarily due to burning fossil fuels (coal, oil, and natural gas), deforestation, and industrial processes. Methane concentrations have more than doubled, largely from agriculture, natural gas systems, and landfills.
+
+Global Temperature Rise
+
+The global average temperature has increased by approximately 1.1°C above pre-industrial levels as of 2023. While this may seem small, even modest temperature changes have cascading effects on weather patterns, ecosystems, and human systems.
+
+The 10 warmest years on record have all occurred since 2010. Climate models project that without significant emissions reductions, global temperatures could rise by 2.5°C to 4.5°C by 2100. Even the most optimistic scenarios with aggressive mitigation suggest warming of at least 1.5°C.
+
+Temperature rise is not uniform — Arctic regions are warming 2-3 times faster than the global average, a phenomenon known as Arctic amplification. This is caused by ice-albedo feedback: as ice melts, darker ocean water is exposed, which absorbs more heat, causing more melting.
+
+Ocean Impacts
+
+The oceans have absorbed approximately 90% of the excess heat trapped by greenhouse gases. This has several consequences.
+
+Ocean warming affects marine ecosystems by disrupting food chains, causing coral bleaching events, and shifting species distributions toward the poles. The Great Barrier Reef has experienced five mass bleaching events since 2016.
+
+Sea level rise is driven by two factors: thermal expansion of warming water and melting of land-based ice (glaciers and ice sheets). Global sea level has risen approximately 20 cm since 1900, and the rate is accelerating. Current projections suggest a rise of 0.3 to 1.0 meters by 2100, depending on emissions scenarios.
+
+Ocean acidification occurs as seawater absorbs CO2, forming carbonic acid. The ocean's pH has decreased by about 0.1 units since pre-industrial times (representing a 30% increase in acidity). This threatens shell-forming organisms like corals, mollusks, and certain plankton species that form the base of marine food webs.
+
+Extreme Weather Events
+
+Climate change intensifies extreme weather events in several ways. Warmer air holds more moisture (approximately 7% more per degree Celsius), leading to heavier precipitation and more intense flooding. At the same time, increased evaporation dries soils faster, intensifying droughts in already dry regions.
+
+Heatwaves have become more frequent, longer, and more intense. The European heat wave of 2023 broke records across the continent. Marine heatwaves have also increased, devastating kelp forests and fisheries.
+
+Tropical cyclones (hurricanes and typhoons) are becoming more intense as warmer ocean waters provide more energy. While the total number of tropical cyclones may not increase, a larger proportion are reaching Category 4 and 5 intensity.
+
+Wildfires have increased in frequency and severity in many regions. Extended dry seasons, earlier snowmelt, and higher temperatures create conditions favorable for larger and more destructive fires, as seen in Australia (2019-2020), the western United States, and Canada (2023).
+
+Impacts on Biodiversity
+
+Climate change is one of the leading threats to biodiversity worldwide. Species must adapt, migrate, or face extinction as their habitats change.
+
+Many species are shifting their ranges toward the poles or to higher elevations. Some marine species are moving poleward at rates of up to 70 km per decade. However, species that cannot migrate fast enough or have nowhere to go (such as mountain-top species or those on islands) face extinction.
+
+Phenological mismatches are occurring when the timing of natural events (flowering, migration, breeding) shifts at different rates for interacting species. For example, if plants flower earlier but their pollinators haven't adjusted their emergence time, both species suffer.
+
+The IPCC estimates that at 2°C of warming, 18% of species on land will be at high risk of extinction. At 4.5°C, this rises to over 50%. Coral reefs, one of the most biodiverse ecosystems, are projected to decline by 70-90% at 1.5°C of warming and virtually disappear at 2°C.
+
+Mitigation Strategies
+
+Addressing climate change requires rapidly reducing greenhouse gas emissions. Key mitigation strategies include:
+
+Energy transition: Shifting from fossil fuels to renewable energy sources — solar, wind, hydroelectric, and nuclear. Solar and wind energy costs have dropped dramatically (solar by 89% since 2010) and are now the cheapest sources of new electricity in most of the world. Grid-scale battery storage is becoming viable, addressing intermittency concerns.
+
+Transportation electrification: Electric vehicles (EVs) produce significantly lower lifecycle emissions than internal combustion engines, especially when charged from clean grids. EV adoption is accelerating, with sales exceeding 14 million globally in 2023. Electrification of trucks, buses, and eventually shipping and aviation is also progressing.
+
+Energy efficiency: Improving building insulation, industrial processes, and appliance efficiency can reduce energy demand by 20-30%. Heat pumps are 3-5 times more efficient than gas furnaces for heating and are being rapidly adopted.
+
+Carbon capture and removal: Technologies like direct air capture (DAC) and bioenergy with carbon capture and storage (BECCS) can remove CO2 from the atmosphere. Natural solutions include reforestation, soil carbon sequestration, and ocean-based approaches. However, these are supplements to emission reductions, not replacements.
+
+Methane reduction: Because methane is a potent but short-lived greenhouse gas (80x more warming potential than CO2 over 20 years), reducing methane emissions from agriculture, fossil fuel operations, and waste can have rapid climate benefits.
+
+Adaptation Strategies
+
+Even with aggressive mitigation, some degree of climate change is already locked in. Adaptation strategies help societies cope with unavoidable impacts.
+
+Infrastructure resilience: Building sea walls, improving drainage systems, designing buildings for extreme heat, and upgrading power grids to handle increased demand and extreme weather.
+
+Agricultural adaptation: Developing drought-resistant crop varieties, adjusting planting schedules, improving irrigation efficiency, and diversifying food sources.
+
+Early warning systems: Improving weather forecasting and disaster preparedness to reduce casualties from extreme events.
+
+Ecosystem-based adaptation: Preserving and restoring natural ecosystems (wetlands, mangroves, forests) that provide natural protection against floods, storms, and erosion while also sequestering carbon.
+
+Water management: Improving water storage, recycling, and desalination capacity to address changing precipitation patterns and increased drought risk.
+
+The Path Forward
+
+The Paris Agreement of 2015 set the global target of limiting warming to well below 2°C, preferably 1.5°C, above pre-industrial levels. Achieving this requires reaching net-zero CO2 emissions by approximately 2050.
+
+Progress has been made — global clean energy investment reached $1.7 trillion in 2023, surpassing fossil fuel investment for the first time. However, current nationally determined contributions (NDCs) under the Paris Agreement still put the world on track for approximately 2.5-2.8°C of warming.
+
+The challenge is unprecedented in scale: it requires transforming the global energy system, changing agricultural practices, protecting forests, and redesigning cities — all within a few decades. But the cost of inaction far exceeds the cost of action. The economic damages from unmitigated climate change are estimated at 10-23% of global GDP by 2100, while the cost of transitioning to a clean energy economy is estimated at 2-3% of GDP.
+
+Every fraction of a degree matters. The difference between 1.5°C and 2°C of warming represents hundreds of millions of additional people exposed to climate risks, significant additional biodiversity loss, and billions of dollars in additional damages.
