@@ -146,4 +146,4 @@ Best suited for moderate query volumes where transparency, portability, and flex
 
 ## License
 
-MIT
+Apache 2.0
